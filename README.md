@@ -1,6 +1,6 @@
 # Split Landing
 
-Split Landing UI page created for studying purpose.
+Split Landing UI page created for studying purposes.
 
 ## Live Demo
 
